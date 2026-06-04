@@ -1,4 +1,11 @@
-## Hi, I'm Yevheniia Uhnich 👋
+## FullStack Developer | React Native | React | TypeScript | Node.js
+
+## Currently
+
+- FullStack Developer at React Native Startup
+- Building mobile applications with React Native and Supabase
+- Developing frontend and backend features
+- Open to FullStack and React Native opportunities
 
 ## FullStack Developer
 
