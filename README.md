@@ -66,7 +66,18 @@ Tools:
 - React Native startup development
 - FullStack development experience
 - Experience working in cross-functional teams
-- 
+
+## Key Technologies
+
+React Native
+React
+TypeScript
+JavaScript
+Node.js
+Supabase
+REST API
+MongoDB
+
 ### Contact
 
 📧 Email: [kjaine@gmail.com](mailto:kjaine@gmail.com)
